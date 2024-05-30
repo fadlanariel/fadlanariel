@@ -13,3 +13,7 @@ Let's Connect [Linkedin](www.linkedin.com/in/fadlan-ariel-fathurrahman).
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fadlanariel&layout=compact&theme=algolia"/>
 </a>
 </p>
+
+### Projects Outside Github
+[SISTEM-PPI](https://sistem-ppi.cs.ui.ac.id/login) : A submission montioring system for scientific publications for magister and doctoral degree in Fasilkom UI
+
